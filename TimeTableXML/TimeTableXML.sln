@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTableXML", "TimeTableXML\TimeTableXML.csproj", "{AB10FB2D-9835-4559-9E2D-5D4FA38F922D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xPathRequests", "xPathRequests\xPathRequests.csproj", "{731852FD-A4CC-49EA-ABDF-91CBCF61DB8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB10FB2D-9835-4559-9E2D-5D4FA38F922D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB10FB2D-9835-4559-9E2D-5D4FA38F922D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB10FB2D-9835-4559-9E2D-5D4FA38F922D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB10FB2D-9835-4559-9E2D-5D4FA38F922D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731852FD-A4CC-49EA-ABDF-91CBCF61DB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731852FD-A4CC-49EA-ABDF-91CBCF61DB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731852FD-A4CC-49EA-ABDF-91CBCF61DB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731852FD-A4CC-49EA-ABDF-91CBCF61DB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A79D6D8E-E501-46BC-BCA6-5D8FA71131F5}
+	EndGlobalSection
+EndGlobal
